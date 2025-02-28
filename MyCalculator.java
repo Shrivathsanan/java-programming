@@ -1,5 +1,3 @@
-/*** divisor sum calculator*/
-
 import java.util.*;
 
 interface AdvancedArithemetics{

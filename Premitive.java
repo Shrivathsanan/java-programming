@@ -1,6 +1,3 @@
-/*** finding premitive data type of a number by using try & catch*/
-
-
 import java.util.*;
 
 class Premitive{
